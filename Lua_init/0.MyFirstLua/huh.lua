@@ -1,0 +1,1 @@
+print("Is this suppose to be a OOP language? or PF? or Both? 让我们来看看");
